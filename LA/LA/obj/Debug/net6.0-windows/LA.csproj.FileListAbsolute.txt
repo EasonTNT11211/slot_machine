@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\LA\LA\bin\Debug\net6.0-windows\LA.exe
+C:\Users\User\Desktop\LA\LA\bin\Debug\net6.0-windows\LA.deps.json
+C:\Users\User\Desktop\LA\LA\bin\Debug\net6.0-windows\LA.runtimeconfig.json
+C:\Users\User\Desktop\LA\LA\bin\Debug\net6.0-windows\LA.dll
+C:\Users\User\Desktop\LA\LA\bin\Debug\net6.0-windows\LA.pdb
+C:\Users\User\Desktop\LA\LA\obj\Debug\net6.0-windows\LA.Form1.resources
+C:\Users\User\Desktop\LA\LA\obj\Debug\net6.0-windows\LA.Properties.Resources.resources
+C:\Users\User\Desktop\LA\LA\obj\Debug\net6.0-windows\LA.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LA\LA\obj\Debug\net6.0-windows\LA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LA\LA\obj\Debug\net6.0-windows\LA.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LA\LA\obj\Debug\net6.0-windows\LA.AssemblyInfo.cs
+C:\Users\User\Desktop\LA\LA\obj\Debug\net6.0-windows\LA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LA\LA\obj\Debug\net6.0-windows\LA.dll
+C:\Users\User\Desktop\LA\LA\obj\Debug\net6.0-windows\refint\LA.dll
+C:\Users\User\Desktop\LA\LA\obj\Debug\net6.0-windows\LA.pdb
+C:\Users\User\Desktop\LA\LA\obj\Debug\net6.0-windows\LA.genruntimeconfig.cache
+C:\Users\User\Desktop\LA\LA\obj\Debug\net6.0-windows\ref\LA.dll
